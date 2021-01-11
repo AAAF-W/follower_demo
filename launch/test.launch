@@ -1,0 +1,6 @@
+<launch>
+  
+  <!-- follower_node -->
+  <node name="follower_node" pkg="follower_demo" type="follower_node" output="screen" />
+
+</launch>
